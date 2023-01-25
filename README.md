@@ -13,11 +13,12 @@ Users should be able to:
 
 ### Screenshot
 
-![b](https://user-images.githubusercontent.com/75983262/214511461-2601ee34-1e77-4466-86cf-c6ebdbec9a5d.png)
+![b](https://user-images.githubusercontent.com/75983262/214512076-fb8c3aad-397d-49b8-adb5-4d90d4b37ad0.png)
 
 ### Links
 
 [Solution](https://github.com/dogankocadayilar/pricing-component-with-toggle-master)
+
 [Live Site](https://dogankocadayilar.github.io/pricing-component-with-toggle-master/)
 
 ### Built with
